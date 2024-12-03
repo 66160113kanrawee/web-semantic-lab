@@ -1,5 +1,5 @@
 # Web Semantic Lab
-โปรเจคนี้เป็นส่วนหนึ่งของวิชา Web Frontend Development
+โปรเจคนี้เป็นส่วนหนึ่งของวิชา Web Frontend Development 
 ## รายละเอียด
 - การใช้ Semantic HTML
 - Form Validation
